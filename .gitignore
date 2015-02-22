@@ -1,4 +1,5 @@
 *.out
+.*
 /linuxos/*
 /linuxos_sem5/*
 /Semester5/*
