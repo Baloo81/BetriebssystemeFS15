@@ -1,6 +1,3 @@
 *.out
 .*
-/linuxos/*
-/linuxos_sem5/*
-/Semester5/*
-/BetriebssystemeFS15/*
+
